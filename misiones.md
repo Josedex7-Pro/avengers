@@ -1,3 +1,4 @@
 # misiones
 
-investigar a dr herrera
+* investigar a dr herrera
+* capturar el dr herrera
